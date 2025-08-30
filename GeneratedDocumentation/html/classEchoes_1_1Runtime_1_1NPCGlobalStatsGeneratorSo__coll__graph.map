@@ -1,0 +1,11 @@
+<map id="Echoes.Runtime.NPCGlobalStatsGeneratorSo" name="Echoes.Runtime.NPCGlobalStatsGeneratorSo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="379,85,579,125"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,183,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,30,355,65,416,82,414,87,354,70,196,35"/>
+<area shape="rect" id="Node000003" href="$classEchoes_1_1Runtime_1_1ScriptableObjects_1_1GlobalTraits.html" title=" " alt="" coords="21,55,217,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,82,378,94,378,99,230,87"/>
+<area shape="rect" id="Node000004" href="$classEchoes_1_1Runtime_1_1GlobalGroupes.html" title=" " alt="" coords="5,120,232,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,124,354,117,378,114,379,120,355,122,246,130"/>
+<area shape="rect" id="Node000005" href="$classEchoes_1_1Runtime_1_1GlobalTrust.html" title=" " alt="" coords="17,169,221,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="234,167,354,145,426,122,427,127,355,150,235,172"/>
+</map>
