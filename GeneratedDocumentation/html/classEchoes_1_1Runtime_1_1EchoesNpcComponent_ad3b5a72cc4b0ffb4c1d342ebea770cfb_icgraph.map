@@ -1,9 +1,0 @@
-<map id="Echoes.Runtime.EchoesNpcComponent.AppreciationOfPlayer" name="Echoes.Runtime.EchoesNpcComponent.AppreciationOfPlayer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="296,69,535,109"/>
-<area shape="rect" id="Node000002" href="$classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#aad2c2612c148d9f357558f6f8a42994e" title=" " alt="" coords="9,5,245,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,69,217,48,218,43,311,64"/>
-<area shape="rect" id="Node000003" href="$classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#aa355204bf78248236a5be6a180077ef3" title=" " alt="" coords="25,69,228,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,92,228,92,228,87,282,87"/>
-<area shape="rect" id="Node000004" href="$classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#a4bf22bddf1cd5e97593e10e7aaba8ff3" title=" " alt="" coords="5,133,248,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,115,218,136,217,131,310,110"/>
-</map>
