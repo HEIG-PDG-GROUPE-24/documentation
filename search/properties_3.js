@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['max_0',['Max',['../classEchoes_1_1Runtime_1_1TrustRow.html#a003660bcea16f2e229dd299d47bbfc1c',1,'Echoes::Runtime::TrustRow']]],
-  ['min_1',['Min',['../classEchoes_1_1Runtime_1_1TrustRow.html#a930404d0272f74b0b541747d1328343f',1,'Echoes::Runtime::TrustRow']]]
+  ['max_0',['Max',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TrustRow.html#acb2e450f1a5b9267e84578b4477d78d1',1,'Echoes::Runtime::ScriptableObjects::TrustRow']]],
+  ['min_1',['Min',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TrustRow.html#af8ed6c4c485044c783c4906e8ab593b0',1,'Echoes::Runtime::ScriptableObjects::TrustRow']]]
 ];

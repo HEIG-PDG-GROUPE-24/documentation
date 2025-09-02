@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['contact_0',['Contact',['../classEchoes_1_1Runtime_1_1TrustRow.html#a8b7afb982dd20f9cd7ee72ae5d8ca6db',1,'Echoes::Runtime::TrustRow']]],
-  ['contacts_1',['Contacts',['../classEchoes_1_1Runtime_1_1NPC.html#a1fbbe6ac6212483c4313b37fbf0489c0',1,'Echoes::Runtime::NPC']]]
+  ['contact_0',['Contact',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TrustRow.html#ab1e6853fe80ef77c73a61ec513cbd0dc',1,'Echoes::Runtime::ScriptableObjects::TrustRow']]],
+  ['contacts_1',['Contacts',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1NPC.html#a36a32f85bb47ea82b580e076f252d606',1,'Echoes::Runtime::ScriptableObjects::NPC']]]
 ];

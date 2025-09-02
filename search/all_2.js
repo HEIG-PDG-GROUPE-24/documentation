@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['contact_0',['Contact',['../classEchoes_1_1Runtime_1_1TrustRow.html#a8b7afb982dd20f9cd7ee72ae5d8ca6db',1,'Echoes::Runtime::TrustRow']]],
-  ['contacts_1',['Contacts',['../classEchoes_1_1Runtime_1_1NPC.html#a1fbbe6ac6212483c4313b37fbf0489c0',1,'Echoes::Runtime::NPC']]],
-  ['current_2',['current',['../classEchoes_1_1Runtime_1_1TrustRow.html#a50585470349271286c88cff3f6ca75a6',1,'Echoes::Runtime::TrustRow']]]
+  ['contact_0',['Contact',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TrustRow.html#ab1e6853fe80ef77c73a61ec513cbd0dc',1,'Echoes::Runtime::ScriptableObjects::TrustRow']]],
+  ['contactdistancerow_1',['ContactDistanceRow',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1ContactDistanceRow.html',1,'Echoes::Runtime::ScriptableObjects']]],
+  ['contactdistancerow_2ecs_2',['ContactDistanceRow.cs',['../ContactDistanceRow_8cs.html',1,'']]],
+  ['contacts_3',['Contacts',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1NPC.html#a36a32f85bb47ea82b580e076f252d606',1,'Echoes::Runtime::ScriptableObjects::NPC']]],
+  ['current_4',['current',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TrustRow.html#a811da8b80ac433a0974ba5eb0274fa6d',1,'Echoes::Runtime::ScriptableObjects::TrustRow']]]
 ];

@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['opinions_0',['Opinions',['../classEchoes_1_1Runtime_1_1NPC.html#a4ebc07e742f91dbb215cf33b37f9d71b',1,'Echoes::Runtime::NPC']]]
+  ['name_0',['name',['../classEchoes_1_1Runtime_1_1SerializableDataStructs_1_1Trait.html#ac629c6fadb7c241808fb2b43266d37ce',1,'Echoes.Runtime.SerializableDataStructs.Trait.name'],['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1ContactDistanceRow.html#aa6c4c68be2c1fd59b4c8c330297a7415',1,'Echoes.Runtime.ScriptableObjects.ContactDistanceRow.Name'],['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1GlobalGroups_1_1GroupsRow.html#a987dd70e390f20bf0252799371608ded',1,'Echoes.Runtime.ScriptableObjects.GlobalGroups.GroupsRow.Name'],['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1GlobalTraitsRow.html#a744df9a8d2176ca535087b7aa0cd9ba2',1,'Echoes.Runtime.ScriptableObjects.GlobalTraitsRow.Name'],['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1NPC.html#a493c2ebbdd7f1f2474eba1bae11d2246',1,'Echoes.Runtime.ScriptableObjects.NPC.Name'],['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TraitsRow.html#a9fcbc0d1ff5d43ebe532adb33a6a15ff',1,'Echoes.Runtime.ScriptableObjects.TraitsRow.Name']]],
+  ['npcdata_1',['npcData',['../classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#afa5002352e966326376e59bce4c3c2ad',1,'Echoes::Runtime::EchoesNpcComponent']]],
+  ['npcname_2',['npcName',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1ContactDistanceRow.html#a7f4d8129009e2db6710bd9a73aaceab3',1,'Echoes::Runtime::ScriptableObjects::ContactDistanceRow']]]
 ];

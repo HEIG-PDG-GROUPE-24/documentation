@@ -96,13 +96,13 @@ Collaboration diagram for Echoes.Runtime.EchoesNpcComponent:</div>
 <div class="dyncontent">
 <div class="center"><img src="classEchoes_1_1Runtime_1_1EchoesNpcComponent__coll__graph.png" border="0" usemap="#aEchoes_8Runtime_8EchoesNpcComponent_coll__map" alt="Collaboration graph"/></div>
 <map name="aEchoes_8Runtime_8EchoesNpcComponent_coll__map" id="aEchoes_8Runtime_8EchoesNpcComponent_coll__map">
-<area shape="rect" title=" " alt="" coords="18,168,221,208"/>
-<area shape="rect" title=" " alt="" coords="5,80,129,105"/>
-<area shape="poly" title=" " alt="" coords="83,116,111,167,106,169,78,118"/>
-<area shape="rect" href="classEchoes_1_1Runtime_1_1NPC.html" title=" " alt="" coords="153,80,312,105"/>
-<area shape="poly" title=" " alt="" coords="210,116,144,170,141,166,207,112"/>
-<area shape="rect" title=" " alt="" coords="168,5,297,31"/>
-<area shape="poly" title=" " alt="" coords="235,45,235,80,230,80,230,45"/>
+<area shape="rect" title=" " alt="" coords="22,183,225,223"/>
+<area shape="rect" title=" " alt="" coords="5,87,129,113"/>
+<area shape="poly" title=" " alt="" coords="83,124,115,181,110,184,78,126"/>
+<area shape="rect" href="classEchoes_1_1Runtime_1_1ScriptableObjects_1_1NPC.html" title=" " alt="" coords="153,80,349,120"/>
+<area shape="poly" title=" " alt="" coords="218,131,149,185,146,181,215,127"/>
+<area shape="rect" title=" " alt="" coords="187,5,316,31"/>
+<area shape="poly" title=" " alt="" coords="254,44,254,80,249,80,249,44"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -145,7 +145,7 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:afa5002352e966326376e59bce4c3c2ad" id="r_afa5002352e966326376e59bce4c3c2ad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classEchoes_1_1Runtime_1_1NPC.html">NPC</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#afa5002352e966326376e59bce4c3c2ad">npcData</a></td></tr>
+<tr class="memitem:afa5002352e966326376e59bce4c3c2ad" id="r_afa5002352e966326376e59bce4c3c2ad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classEchoes_1_1Runtime_1_1ScriptableObjects_1_1NPC.html">NPC</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#afa5002352e966326376e59bce4c3c2ad">npcData</a></td></tr>
 <tr class="separator:afa5002352e966326376e59bce4c3c2ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
@@ -158,7 +158,7 @@ Properties</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>This is the main component that should be attached to NPC game objects Each NPC has its own Scriptable Object file storing its contacts and other starting values </p>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00017">17</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00018">18</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a4523ceab66318b47126a35192942ba8f" name="a4523ceab66318b47126a35192942ba8f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a4523ceab66318b47126a35192942ba8f">&#9670;&#160;</a></span>AddToOpinionOfPlayer()</h2>
@@ -217,7 +217,7 @@ Properties</h2></td></tr>
 </div><div class="memdoc">
 <dl class="section return"><dt>Returns</dt><dd>an appreciation score of the player between -1 and 1 inclusive </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00200">200</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00201">201</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -251,15 +251,19 @@ Here is the caller graph for this function:</div>
 </div><div class="memdoc">
 <p>Indicates the end of an interaction between the player and this npc, of any nature or length of time. Calling this method also triggers the propagation of the newly found opinion of that npc </p>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00232">232</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00233">233</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classEchoes_1_1Runtime_1_1EchoesNpcComponent_aad2c2612c148d9f357558f6f8a42994e_cgraph.png" border="0" usemap="#aclassEchoes_1_1Runtime_1_1EchoesNpcComponent_aad2c2612c148d9f357558f6f8a42994e_cgraph" alt=""/></div>
 <map name="aclassEchoes_1_1Runtime_1_1EchoesNpcComponent_aad2c2612c148d9f357558f6f8a42994e_cgraph" id="aclassEchoes_1_1Runtime_1_1EchoesNpcComponent_aad2c2612c148d9f357558f6f8a42994e_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,241,45"/>
-<area shape="rect" href="classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#ad3b5a72cc4b0ffb4c1d342ebea770cfb" title=" " alt="" coords="289,5,528,45"/>
-<area shape="poly" title=" " alt="" coords="242,23,275,23,275,28,242,28"/>
+<area shape="rect" title=" " alt="" coords="5,69,241,109"/>
+<area shape="rect" href="classEchoes_1_1Runtime_1_1GlobalStats.html#a7ddf9267ba3201dff99d497e3252f6cf" title=" " alt="" coords="303,5,514,45"/>
+<area shape="poly" title=" " alt="" coords="213,67,305,46,306,51,214,72"/>
+<area shape="rect" href="classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#ad3b5a72cc4b0ffb4c1d342ebea770cfb" title=" " alt="" coords="289,69,528,109"/>
+<area shape="poly" title=" " alt="" coords="242,87,275,87,275,92,242,92"/>
+<area shape="rect" href="classEchoes_1_1Runtime_1_1GlobalStats.html#ab0b95967b988f944b97baf8997f987f3" title=" " alt="" coords="303,133,514,173"/>
+<area shape="poly" title=" " alt="" coords="214,107,306,128,305,133,213,112"/>
 </map>
 </div>
 
@@ -407,7 +411,7 @@ Here is the caller graph for this function:</div>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00121">121</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00122">122</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -437,7 +441,7 @@ Here is the caller graph for this function:</div>
 </div><div class="memdoc">
 <p>Set npc state to default, IE the state defined in the editor and stored in the SO file. It also combines contacts and group members into a single Contacts Set </p>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00154">154</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00155">155</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 
 </div>
 </div>
@@ -464,7 +468,7 @@ Here is the caller graph for this function:</div>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>whether the npc received the opinion. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00254">254</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00256">256</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -519,7 +523,7 @@ Here is the call graph for this function:</div>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00034">34</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00035">35</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 
 </div>
 </div>
@@ -562,7 +566,7 @@ Here is the call graph for this function:</div>
   </dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00069">69</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00070">70</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 
 </div>
 </div>
@@ -620,7 +624,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00094">94</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00095">95</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 
 </div>
 </div>
@@ -647,7 +651,7 @@ Here is the call graph for this function:</div>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if the interaction started, false if one is already going </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00219">219</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00220">220</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -686,12 +690,12 @@ Here is the call graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classEchoes_1_1Runtime_1_1NPC.html">NPC</a> Echoes.Runtime.EchoesNpcComponent.npcData</td>
+          <td class="memname"><a class="el" href="classEchoes_1_1Runtime_1_1ScriptableObjects_1_1NPC.html">NPC</a> Echoes.Runtime.EchoesNpcComponent.npcData</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00019">19</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00020">20</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 
 </div>
 </div>
@@ -716,7 +720,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00114">114</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00115">115</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 
 </div>
 </div>
@@ -740,7 +744,7 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00113">113</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
+<p class="definition">Definition at line <a class="el" href="NPCComponent_8cs_source.html#l00114">114</a> of file <a class="el" href="NPCComponent_8cs_source.html">NPCComponent.cs</a>.</p>
 
 </div>
 </div>

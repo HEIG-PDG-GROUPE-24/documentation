@@ -1,16 +1,14 @@
 var searchData=
 [
-  ['tostring_0',['ToString',['../classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#adea963fc576f13be21c2cc75791e1ee7',1,'Echoes::Runtime::EchoesNpcComponent']]],
-  ['trait_1',['Trait',['../classEchoes_1_1Runtime_1_1SerializableDataStructs_1_1Trait.html',1,'Echoes::Runtime::SerializableDataStructs']]],
-  ['trait_2ecs_2',['Trait.cs',['../Trait_8cs.html',1,'']]],
-  ['traitname_3',['traitName',['../classEchoes_1_1Runtime_1_1SerializableDataStructs_1_1TraitValue.html#a9fe36b894b076e297d157742bc457320',1,'Echoes::Runtime::SerializableDataStructs::TraitValue']]],
-  ['traits_4',['traits',['../classEchoes_1_1Runtime_1_1NPC.html#a16f76ca1049a4830512c51a0a2da9ec3',1,'Echoes.Runtime.NPC.Traits'],['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1GlobalTraits.html#abce05fc1abf539f737b191f649fdf6cd',1,'Echoes.Runtime.ScriptableObjects.GlobalTraits.Traits']]],
-  ['traitsrow_5',['traitsrow',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TraitsRow.html',1,'Echoes.Runtime.ScriptableObjects.TraitsRow'],['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TraitsRow.html#a685f0a69246eba0331bdb6c7e8a42a15',1,'Echoes.Runtime.ScriptableObjects.TraitsRow.TraitsRow(string name, float intensity)'],['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1TraitsRow.html#a9c10694aa66b03437e2012cdf4b50c7b',1,'Echoes.Runtime.ScriptableObjects.TraitsRow.TraitsRow()']]],
-  ['traitsrow_2ecs_6',['TraitsRow.cs',['../TraitsRow_8cs.html',1,'']]],
-  ['traitvalue_7',['TraitValue',['../classEchoes_1_1Runtime_1_1SerializableDataStructs_1_1TraitValue.html',1,'Echoes::Runtime::SerializableDataStructs']]],
-  ['trustlevel_8',['trustlevel',['../classEchoes_1_1Runtime_1_1TrustRow.html#acfab5b42e5e531093969cab5ba2bf290',1,'Echoes.Runtime.TrustRow.TrustLevel'],['../namespaceEchoes_1_1Runtime_1_1SerializableDataStructs.html#a885353d9bd99f835c5c676c312193c3c',1,'Echoes.Runtime.SerializableDataStructs.TrustLevel']]],
-  ['trustlevel_2ecs_9',['TrustLevel.cs',['../TrustLevel_8cs.html',1,'']]],
-  ['trustrow_10',['TrustRow',['../classEchoes_1_1Runtime_1_1TrustRow.html',1,'Echoes::Runtime']]],
-  ['trustrow_2ecs_11',['TrustRow.cs',['../TrustRow_8cs.html',1,'']]],
-  ['trusts_12',['Trusts',['../classEchoes_1_1Runtime_1_1NPC.html#a8128db2f3fbfe0c0df4ac72064ea1f0b',1,'Echoes::Runtime::NPC']]]
+  ['save_0',['Save',['../classEchoes_1_1Runtime_1_1SaveSystem_1_1EchoesSaveSystem.html#a64b01d67e298421a7810ef53d1ee9b37',1,'Echoes::Runtime::SaveSystem::EchoesSaveSystem']]],
+  ['savedirectory_1',['savedirectory',['../classEchoes_1_1Runtime_1_1SaveSystem_1_1BinaryEchoesSaveSystem.html#ae0a34ff5d77c568836c5ff2878a1af4a',1,'Echoes.Runtime.SaveSystem.BinaryEchoesSaveSystem.SaveDirectory'],['../classEchoes_1_1Runtime_1_1SaveSystem_1_1JsonEchoesSaveSystem.html#a75f4bb723b8d4f9c8dbdfa9460ae5052',1,'Echoes.Runtime.SaveSystem.JsonEchoesSaveSystem.SaveDirectory']]],
+  ['serializablenpcdata_2',['SerializableNpcData',['../namespaceEchoes_1_1Runtime_1_1SaveSystem.html#a76461809e9570a0b6a7343a47b0c3f0a',1,'Echoes::Runtime::SaveSystem']]],
+  ['setcontactdistance_3',['SetContactDistance',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1GlobalDistance.html#ac3d2ae1e18f8e8ba95c08b1d5bcfdc2d',1,'Echoes::Runtime::ScriptableObjects::GlobalDistance']]],
+  ['setopinionofplayer_4',['SetOpinionOfPlayer',['../classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#a25603932e1ff92b3a4280cc8ef14a3ff',1,'Echoes::Runtime::EchoesNpcComponent']]],
+  ['setpersonality_5',['SetPersonality',['../classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#ab6aefe1cb39691743450aae2ae852a90',1,'Echoes::Runtime::EchoesNpcComponent']]],
+  ['settrusttowards_6',['settrusttowards',['../classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#a1eafcddceeb714f1c7086c171e3dc575',1,'Echoes.Runtime.EchoesNpcComponent.SetTrustTowards(EchoesNpcComponent other, double value)'],['../classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#a48835d8d6b18fb1e891ac9953266f644',1,'Echoes.Runtime.EchoesNpcComponent.SetTrustTowards(string informantName, double value)']]],
+  ['showwindow_7',['ShowWindow',['../classEchoes_1_1Runtime_1_1Echoes_1_1NPCGraphWindow.html#ab1437c02b6d70fa1b9c7da123822b651',1,'Echoes::Runtime::Echoes::NPCGraphWindow']]],
+  ['startplayerinteraction_8',['StartPlayerInteraction',['../classEchoes_1_1Runtime_1_1EchoesNpcComponent.html#a4bf22bddf1cd5e97593e10e7aaba8ff3',1,'Echoes::Runtime::EchoesNpcComponent']]],
+  ['syncwithglobaldistances_9',['SyncWithGlobalDistances',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1NPC.html#a461fe04876f061e18166fe45ee5dc5f9',1,'Echoes::Runtime::ScriptableObjects::NPC']]],
+  ['syncwithglobaltraits_10',['SyncWithGlobalTraits',['../classEchoes_1_1Runtime_1_1ScriptableObjects_1_1NPC.html#ae4a6e90bb66e97d1db2eb3574486518b',1,'Echoes::Runtime::ScriptableObjects::NPC']]]
 ];

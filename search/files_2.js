@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['globalgroupes_2ecs_0',['GlobalGroupes.cs',['../GlobalGroupes_8cs.html',1,'']]],
-  ['globaltraits_2ecs_1',['GlobalTraits.cs',['../GlobalTraits_8cs.html',1,'']]],
-  ['globaltraitsrow_2ecs_2',['GlobalTraitsRow.cs',['../GlobalTraitsRow_8cs.html',1,'']]],
-  ['globaltrust_2ecs_3',['GlobalTrust.cs',['../GlobalTrust_8cs.html',1,'']]]
+  ['echoesglobal_2ecs_0',['EchoesGlobal.cs',['../EchoesGlobal_8cs.html',1,'']]],
+  ['echoesnpcdata_2ecs_1',['EchoesNpcData.cs',['../EchoesNpcData_8cs.html',1,'']]],
+  ['echoessavesystem_2ecs_2',['EchoesSaveSystem.cs',['../EchoesSaveSystem_8cs.html',1,'']]]
 ];
